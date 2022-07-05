@@ -32,7 +32,7 @@ Agora, vou chamar esse conjunto de seções de "Javascript Moderno":
 
 [X]Seção 10 - Node
 [X]Seção 11 - ESNext
-[ ]Seção 16 - Ajax
+[X]Seção 16 - Ajax
 [ ]Seção 17 - Gulp
 [ ]Seção 38 - Gulp - Versão 3
 [ ]Seção 18 - Webpack
