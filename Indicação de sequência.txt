@@ -35,14 +35,14 @@ Agora, vou chamar esse conjunto de seções de "Javascript Moderno":
 [X]Seção 16 - Ajax
 [X]Seção 17 - Gulp
 [X]Seção 38 - Gulp - Versão 3
-[ ]Seção 18 - Webpack
-Para consolidar conhecimento: Seção 20: Projeto galeria (bootstrap/JQuery/Webpack)
+[X]Seção 18 - Webpack
+[X]Seção 20: Projeto galeria (bootstrap/JQuery/Webpack)
 
 BANCO DE DADOS E EXPRESS
 
-[ ]Seção 31 - Banco relacional
-[ ]Seção 32 - Banco não relacional
-[ ]Seção 33 - Express
+[ ]Seção 32 - Banco relacional
+[ ]Seção 33 - Banco não relacional
+[ ]Seção 34 - Express
 
 FAÇA A SUA ESCOLHA!
 
