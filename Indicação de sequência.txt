@@ -40,8 +40,8 @@ Agora, vou chamar esse conjunto de seções de "Javascript Moderno":
 
 BANCO DE DADOS E EXPRESS
 
-[ ]Seção 32 - Banco relacional
-[ ]Seção 33 - Banco não relacional
+[X]Seção 32 - Banco relacional
+[X]Seção 33 - Banco não relacional
 [ ]Seção 34 - Express
 
 FAÇA A SUA ESCOLHA!
