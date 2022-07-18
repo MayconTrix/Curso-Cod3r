@@ -42,7 +42,7 @@ BANCO DE DADOS E EXPRESS
 
 [X]Seção 32 - Banco relacional
 [X]Seção 33 - Banco não relacional
-[ ]Seção 34 - Express
+[X]Seção 34 - Express
 
 FAÇA A SUA ESCOLHA!
 
