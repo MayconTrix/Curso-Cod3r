@@ -10,7 +10,7 @@ import {
     selector: "[myFor]",
   })
   export class ForDirective implements OnInit {
-    @Input("myForEm") numbers: number[];
+    @Input("myForEm") numbers!: number[];
   
     constructor(
       private container: ViewContainerRef,
